@@ -1,0 +1,25 @@
+{
+  "name": "scroll-accelerate",
+  "version": "1.0.0",
+  "description": "滚动加速度计算框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sampsonli/scroll-accelerate.git"
+  },
+  "keywords": [
+    "加速度",
+    "accelerate",
+    "滚动",
+    "scroll"
+  ],
+  "author": "sampsonli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sampsonli/scroll-accelerate/issues"
+  },
+  "homepage": "https://github.com/sampsonli/scroll-accelerate#readme"
+}
