@@ -1,6 +1,6 @@
 {
   "name": "scroll-accelerate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "滚动加速度计算框架",
   "main": "index.js",
   "scripts": {
